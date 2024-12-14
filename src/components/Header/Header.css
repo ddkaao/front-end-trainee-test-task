@@ -1,0 +1,19 @@
+.header {
+    width: 100%;
+}
+
+.header__container {
+    max-width: 1140px;
+    padding: 18px 20px;
+    margin: 0 auto;
+}
+
+.header__title {
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    color: #FFF;
+    font-style: normal;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+}
